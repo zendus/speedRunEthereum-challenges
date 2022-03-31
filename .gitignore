@@ -21,6 +21,9 @@ packages/hardhat-ts/cache
 # secrets
 .secret
 
+# js
+packages/hardhat/0xcf1dbe083c97ccdbeeb18571b0d104f3a38be9ae.txt
+
 packages/subgraph/config/config.json
 tenderly.yaml
 
