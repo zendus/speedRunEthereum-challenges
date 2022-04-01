@@ -43,6 +43,6 @@
     "generate": "hardhat generate",
     "account": "hardhat account",
     "mint": "hardhat run scripts/mint.js",
-    "verify": "hardhat etherscan-verify --api-key JAJX9DX9ZT288C4HYI1SE2SX1QI96KZMY8"
+    "verify": "hardhat etherscan-verify --api-key PROCESS.ENV.ETHERSCAN_SECRET"
   }
 }
